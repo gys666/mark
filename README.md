@@ -1,3 +1,4 @@
+- [GitHub - mzlogin/awesome-adb: ADB Usage Complete / ADB 用法大全](https://github.com/mzlogin/awesome-adb) adb shell 常用命令 #tools
 - [文件與IO（一）：文件描述符、open，close-软件开发平台及语言笔记大全(超详细)](https://cntofu.com/book/46/linux_system/linuxxi_tong_bian_cheng_zhi_wen_jian_yu_io_ff08_yi.md) 大神linux等笔记，每日学习 #linux
 - [文件與IO（一）：文件描述符、open，close-软件开发平台及语言笔记大全(超详细)](https://cntofu.com/book/46/linux_system/linuxxi_tong_bian_cheng_zhi_wen_jian_yu_io_ff08_yi.md) 大神linux等笔记，每日学习 #linux
 - [Online C++ Compiler](https://www.tutorialspoint.com/compile_cpp_online.php) #tools
